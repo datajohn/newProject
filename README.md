@@ -1,2 +1,2 @@
 # newProject
-Project useing Atom editor w/git
+Project using Atom editor w/git
